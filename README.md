@@ -7,8 +7,8 @@
 
 | No | Question 
 |-----------------|------------------------------------------------------|
-| [1] (#question-1-what-is-react) | what is react                       
-| [2] (#question-2-what-is-the-history-behind-react-evolution) | what-is-the-history-behind-react-evolution
+| 1  | what is react  (#question-1-what-is-react)                     
+| 2  | what-is-the-history-behind-react-evolution (#question-2-what-is-the-history-behind-react-evolution)
 
 
 
