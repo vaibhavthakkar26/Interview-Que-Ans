@@ -7,5 +7,5 @@
 
 | Question Number | Question Description 
 |-----------------|------------------------------------------------------|
-| [1] (#question-1-what-is-react)                         
-| [2] (#question-2-what-is-the-history-behind-react-evolution) 
+| [1] | (what-is-react)                         
+| [2] | (what-is-the-history-behind-react-evolution) 
